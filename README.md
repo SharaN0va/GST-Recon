@@ -16,7 +16,7 @@ Desktop GST reconciliation software designed for fast, structured reconciliation
 
 ## System Requirements
 - **OS:** Windows 10 or Windows 11 or Windows 7
-- **Hardware:** Any PC that turns on
+- **Hardware:** Runs smoothly even on legacy office hardware (tested on 2nd Gen Intel Core i3 / 4GB RAM setups).
 
 ## Licensing & Support
 VeRecon is distributed with license-controlled access for CA practices and accounting teams.
