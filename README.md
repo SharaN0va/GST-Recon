@@ -15,12 +15,12 @@ Desktop GST reconciliation software designed for fast, structured reconciliation
 4. Enter your license key when prompted (for licensed or beta builds).
 
 ## System Requirements
-- **OS:** Windows 10 or Windows 11 (64-bit)
-- **Storage:** ~200 MB free disk space plus space for input/output Excel files
+- **OS:** Windows 10 or Windows 11 or Windows 7
+- **Hardware:** Any PC that turns on
 
 ## Licensing & Support
 VeRecon is distributed with license-controlled access for CA practices and accounting teams.
-- **Request a license key / demo:** `<your-email@example.com>`
+- **Request a license key / demo:** `sharanyubagde@outlook.com`
 - **Report an issue:** Open an issue in this repository with steps to reproduce and any error message (avoid attaching sensitive client data).
 
 ## Disclaimer
